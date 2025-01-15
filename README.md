@@ -1,32 +1,68 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+---
 
+# BMI Calculator 🏋️‍♂️⚖️
 
-# BMI Calculator 💪
+### A Simple and Intuitive Body Mass Index Calculator
 
-## Our Goal
+---
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+## 🌱 Overview
 
+**BMI Calculator** is a Flutter-based mobile application that allows users to calculate their Body Mass Index (BMI) by simply entering their weight and height. It provides a quick and accurate result to help users understand their health status.
 
-## What you will create
+---
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+## 🔧 Tech Stack
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+- **Flutter**: Cross-platform framework for building the app.
+- **Dart**: Programming language used for Flutter development.
+- **Material Design**: Ensures a clean and user-friendly interface.
 
-## What you will learn
+---
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+## 🌍 Features
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+- **Input Fields**: Enter weight (kg) and height (cm or m).
+- **Instant Calculation**: Displays the BMI value along with a health category (Underweight, Normal, Overweight, Obese).
+- **Responsive Design**: Works seamlessly on different screen sizes.
+- **Health Guidance**: Includes a chart to interpret BMI categories.
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+---
+
+## 📷 Screenshots  
+
+![bmi](https://github.com/user-attachments/assets/067bd805-9566-431c-a949-7b4f41bfb97a)
+
+## 🚀 Installation and Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/bmi-calculator.git
+   ```
+
+---
+
+## 🌍 Future Enhancements
+
+- **Unit Toggle**: Support for imperial units (lbs, inches).
+- **Historical Data**: Track BMI over time.
+- **Health Tips**: Provide personalized health and fitness tips.
+- **Dark Mode**: Add a toggle for light and dark themes.
+
+---
+
+## 🛠️ How It Works
+
+1. **Enter Details**: Provide your weight and height in the input fields.
+2. **Calculate BMI**: Tap the calculate button to instantly see your BMI and health category.
+3. **Understand Results**: Use the BMI chart to interpret your health status.
+
+---
+
+## 🌐 Connect With Us
+
+- **Email**: [chavannisha2020@example.com](mailto:chavannisha2020@gmail.com)  
+- **GitHub**: [GitHub](https://github.com/Nisha-Chavan-2024)  
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/nisha-chavan-31a72329a/)  
+---
+
